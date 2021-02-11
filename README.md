@@ -4,12 +4,16 @@ My first Github repo :
 
 Julia Davancaze
 
-test Kayla Parham +Monvi Kudumula Pierce Angeloff Portia Bhattacharjee
+Project Team Members:
+
+
+Julia Davancaze
 
 test
 second test
 
 Project Team Members:
+
 Kayla Parham
 Monvi Kudumula 
 Pierce Angeloff
