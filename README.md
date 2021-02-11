@@ -4,9 +4,9 @@ My first Github repo :
 
 Julia Davancaze
 
-test Kayla Parham +Monvi Kudumula Pierce Angeloff Portia Bhattacharjee
+Project Team Members:
 
-test
+Julia Davancaze
 Kayla Parham
 +Monvi Kudumula 
 Pierce Angeloff
